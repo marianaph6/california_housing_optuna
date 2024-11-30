@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/repos/NuevosEnfoques/Reto%202/california_housing_optuna/mlruns/970324975762069047/ae1b0cd734e44409aa3334abaf9fe83d/artifacts
+end_time: 1732980706254
+entry_point_name: ''
+experiment_id: '970324975762069047'
+lifecycle_stage: active
+run_id: ae1b0cd734e44409aa3334abaf9fe83d
+run_name: XGBoost - Optuna Best Params
+run_uuid: ae1b0cd734e44409aa3334abaf9fe83d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732980697545
+status: 3
+tags: []
+user_id: maria
