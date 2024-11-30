@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./california_housing_",
+        "./california_housing_",
+        "./california_housing_"
+    ]
+}
